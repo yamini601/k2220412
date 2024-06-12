@@ -1,0 +1,3 @@
+Which services access the goggle drive?
+A.Goggle drive is a saas cloud computing service because it gives you access to store,compute and access different software functions.If you already have a gmail account then you have Goggle Drive,since your free Goggle account gives you access to all Goggle services like Gmail,goggle drive,photos,youtube,playstore and more.
+    Goggle drive is a cloud based storage solution that enables you to store your media,files and media in the servers in the cloud.You can easily access these files with your phone tablet or laptop.The drive is available in both android and IOS stores, in fact it comes pre-installed in most new android phones.
